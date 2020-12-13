@@ -8,7 +8,6 @@
 - [resume](https://github.com/masoume-ghashghayi/)
   : رزومه
 - [SOP](https://github.com/masoume-ghashghayi/sop/)
-
   :انگیزنه نامه 
   
 ------------------
