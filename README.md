@@ -14,7 +14,9 @@
 
 [Java Script](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/downloadfile(1).pdf)
 
-[تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.rar)
+[تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.tex)
+
+[تایپ لاتک روش پژوهش و ارائه 142 تا 144](
 
 -------------------
 # گروه های معصومه قشقایی
