@@ -16,7 +16,7 @@
 
 [تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.tex)
 
-[تایپ لاتک روش پژوهش و ارائه 142 تا 144](
+[تایپ لاتک روش پژوهش و ارائه 142 تا 144](https://github.com/masoume-ghashghayi/PNU_3991_AR/blob/main/142-144.pdf)
 
 -------------------
 # گروه های معصومه قشقایی
